@@ -2,8 +2,9 @@
 
 <p>Objetivo: Juntar as duas aplicações em uma só. Projeto de Proposta e de Orçamento.</p> <br />
 
-## 1 - clone o repositório
+## 1 - Clone dos repositórios
 * > git clone https://github.com/GregMasterBr/sistema-de-proposta-wings-design.git
+* > git clone https://github.com/wingsdesign/orcamento.git (realizado com o processo de instalação de um novo app)
 
 ##  2 - Criar ambiente Virtual
 * > python -m venv venv
