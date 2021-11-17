@@ -10,7 +10,7 @@ from . import views
 
 
 urlpatterns = [
-   	path('orcamento/<int:id>/', views.orcamento, name='orcamento'),
+   	#path('orcamento/<int:id>/', views.orcamento, name='orcamento'),
 	path('proposta/<int:id>/', views.proposta, name='proposta'),
     path('admin/', admin.site.urls),
 ]

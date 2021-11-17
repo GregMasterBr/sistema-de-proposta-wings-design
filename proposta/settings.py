@@ -39,7 +39,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'proposta.core',
     'localflavor',
+    'orcamento',    
 ]
+DECIMAL_SEPARATOR = '.' 
+USE_THOUSAND_SEPARATOR = True
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

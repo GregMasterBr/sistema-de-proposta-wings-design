@@ -1,4 +1,6 @@
-# SISTEMA DE PROPOSTA EM DJANGO 3
+# SISTEMA DE PROPOSTA E ORÇAMENTO EM DJANGO 3
+
+<p>Objetivo: Juntar as duas aplicações em uma só. Projeto de Proposta e de Orçamento.</p> <br />
 
 ## 1 - clone o repositório
 * > git clone https://github.com/GregMasterBr/sistema-de-proposta-wings-design.git
@@ -38,9 +40,12 @@
 
 ### REFERÊNCIA: 
 AUTOR ORGINAL: WINGS DESIGN
+#### PROPOSTA
 https://github.com/wingsdesign/proposta
-
 https://www.youtube.com/watch?v=kLKl9IuLDV8
+#### ORÇAMENTO
+https://github.com/wingsdesign/orcamento
+https://www.youtube.com/watch?v=AGdPq58cVXI
 
 
 ### EXECUTOR
