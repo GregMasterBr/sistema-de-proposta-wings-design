@@ -17,3 +17,11 @@ SISTEMA DE PROPOSTA EM DJANGO 3
 
 
 Obrigado a todos espero que goste!!
+
+REFERÊNCIA: 
+AUTOR ORGINAL: WINGS DESIGN
+https://github.com/wingsdesign/proposta
+
+https://www.youtube.com/watch?v=kLKl9IuLDV8
+
+
